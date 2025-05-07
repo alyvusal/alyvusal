@@ -1,6 +1,6 @@
 # Vusal Aliyev
 
-## Clouds | DevOps | DevSecOps | Platform | SRE
+## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation
 
 <!--
 **alyvusal/alyvusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
