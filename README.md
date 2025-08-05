@@ -36,6 +36,11 @@
   <li><a href="https://github.com/alyvusal/postgres-kafka-minio">Postgres (CDC) - Kafka - MiniO</a></li>
 </details>
 
+<details>
+  <summary>Python</summary>
+  <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
+</details>
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
