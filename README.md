@@ -1,3 +1,5 @@
+<!-- markdownlint-disable-file MD045 -->
+<!-- markdownlint-disable-file MD033 -->
 # Vusal Aliyev
 
 ## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation 🏬 DC
@@ -43,6 +45,25 @@
   </tr>
 </table>
 
+- ⚙️ **Infrastructure as Code**
+
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-eks-terragrunt">
+        <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/>
+        <strong>Terragrunt</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-msk">
+        <img src="https://img.icons8.com/?size=512&id=WncR8Bcg5nE9&format=png" width="40"/><br/>
+        <strong>Terraform</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - 🗄️ **Data, Messaging & Workflow**
 
 <table>
@@ -80,10 +101,15 @@
   </tr>
 </table>
 
-
 ---
 
 ## Demos
+
+<details>
+  <summary>Terraform/Terragrunt</summary>
+  <li><a href="https://github.com/alyvusal/aws-eks-terragrunt">AWS EKS with Terragrunt</a></li>
+<li><a href="https://github.com/alyvusal/aws-msk">AWS MSK with Terraform</a></li>
+</details>
 
 <details>
   <summary>Kafka</summary>
