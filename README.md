@@ -1,16 +1,41 @@
-### Hi there 👋
+# Vusal Aliyev
 
-<!--
-**alyvusal/alyvusal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation 🏬 DC
 
-Here are some ideas to get you started:
+- ✨ 17+ years of experience in DevOps & Infrastructure management
+- 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 How to reach me
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:aly.vusal@gmail.com?subject=[GitHub]%20Personal%20email) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vusalaliyev)
+
+---
+
+## 🛠️ My Tech Stack
+
+> To see related repository I've created, click on it.
+
+- 🗄️ **Data, Messaging & Workflow**
+
+| <a href="https://github.com/alyvusal/aws-msk"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/> <br> [AWS MSK](https://github.com/alyvusal/aws-msk) ||
+|:--:|:--:|
+
+---
+
+## Demos
+
+<details>
+  <summary>Kafka</summary>
+  <li><a href="https://github.com/alyvusal/postgres-kafka-minio">Postgres (CDC) - Kafka - MiniO</a></li>
+</details>
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=alyvusal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=alyvusal&icon=0&color=0)](https://visitcount.itsvg.in)
