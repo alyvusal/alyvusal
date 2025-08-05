@@ -22,6 +22,11 @@
 | <a href="https://github.com/alyvusal/aws-msk"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/> <br> [AWS MSK](https://github.com/alyvusal/aws-msk) ||
 |:--:|:--:|
 
+- 🌐 **Networking & Ingress**
+
+| <a href="https://github.com/alyvusal/traefik"> <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/> <br> [Traefik](https://github.com/alyvusal/traefik) ||
+|:--:|:--:|
+
 ---
 
 ## Demos
