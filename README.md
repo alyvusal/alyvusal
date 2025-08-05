@@ -8,7 +8,7 @@
 
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
-- 🌱 I’m currently: Movin private repos to public as much as I han find free time for it.
+- 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
 
 ---
 
