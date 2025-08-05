@@ -4,6 +4,8 @@
 
 ## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation 🏬 DC
 
+[![](https://readme-typing-svg.herokuapp.com/?lines=17+years+experience;Network+Security+System+Cloud;DevOps/SRE+Engineer)](https://git.io/typing-svg)
+
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Movin private repos to public as much as I han find free time for it.
@@ -57,7 +59,7 @@
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/aws-msk">
-        <img src="https://img.icons8.com/?size=512&id=WncR8Bcg5nE9&format=png" width="40"/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/>
         <strong>Terraform</strong>
       </a>
     </td>
