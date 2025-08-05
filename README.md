@@ -4,6 +4,7 @@
 
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
+- 🌱 I’m currently: Movin private repos to public as much as I han find free time for it.
 
 ---
 
@@ -17,6 +18,31 @@
 
 > To see related repository I've created, click on it.
 
+- ☁️ **Cloud & Infrastructure**
+
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-eks">
+        <img src="https://cdn.prod.website-files.com/5f05d5858fab461d0d08eaeb/634ff70e43a9f038e0092fc8_eks_light.svg" width="40"/><br/>
+        <strong>AWS EKS</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/azure-aks">
+        <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f63acb3dff7a6ef2666418d_AZURE%20AKS.png" width="40"/><br/>
+        <strong>Azure AKS</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/gcp-gke">
+        <img src="https://www.gstatic.com/bricks/image/a25e3d67-cda0-4dd2-88c4-49e04c469441.png" width="40"/><br/>
+        <strong>GCP GKE</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - 🗄️ **Data, Messaging & Workflow**
 
 <table>
@@ -29,11 +55,16 @@
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/minio">
-        <img src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/68656cb290ee4fa91989c2dc_Brand-Logo%20%E2%9C%85.svg" width="60"/><br/>
+        <img src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/68656cb290ee4fa91989c2dc_Brand-Logo%20%E2%9C%85.svg" width="40"/><br/>
         <strong>MinIO</strong>
       </a>
     </td>
+    <!-- Add up to 7 more <td> for this row -->
   </tr>
+  <!-- <tr align="center"> -->
+    <!-- Next 10 tools go here -->
+  <!-- </tr> -->
+  <!-- Keep adding more <tr> rows for every 10 tools -->
 </table>
 
 - 🌐 **Networking & Ingress**
@@ -45,9 +76,6 @@
         <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/><br/>
         <strong>Traefik</strong>
       </a>
-    </td>
-    <td valign="bottom">
-      <!-- Add another tool -->
     </td>
   </tr>
 </table>
@@ -67,11 +95,9 @@
   <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
 </details>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=alyvusal&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=alyvusal&icon=0&color=0)](https://visitcount.itsvg.in)
