@@ -19,13 +19,39 @@
 
 - 🗄️ **Data, Messaging & Workflow**
 
-| <a href="https://github.com/alyvusal/aws-msk"> <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/> <br> [AWS MSK](https://github.com/alyvusal/aws-msk) ||
-|:--:|:--:|
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-msk">
+        <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/><br/>
+        <strong>AWS MSK</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/minio">
+        <img src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/68656cb290ee4fa91989c2dc_Brand-Logo%20%E2%9C%85.svg" width="60"/><br/>
+        <strong>MinIO</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 🌐 **Networking & Ingress**
 
-| <a href="https://github.com/alyvusal/traefik"> <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/> <br> [Traefik](https://github.com/alyvusal/traefik) ||
-|:--:|:--:|
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/traefik">
+        <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/><br/>
+        <strong>Traefik</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <!-- Add another tool -->
+    </td>
+  </tr>
+</table>
+
 
 ---
 
