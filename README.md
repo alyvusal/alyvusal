@@ -116,6 +116,17 @@
 
 - 🔁 **CI/CD & GitOps**
 
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/argo">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40"/><br/>
+        <strong>Argo</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - 🔐 **Security & Secrets Management**
 
 <table>
