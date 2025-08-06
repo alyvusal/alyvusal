@@ -197,6 +197,12 @@
         <strong>Jenkins</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40"/><br/>
+        <strong>CircleCI</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -254,6 +260,13 @@
 <details>
   <summary>Google Build Pipelines</summary>
   <li><a href="https://github.com/alyvusal/gcp-gke">Google GCP GKE with Google Build Pipelines</a></li>
+</details>
+
+<details>
+  <summary>Dcoker/BuildX/BuilKit</summary>
+  <li><a href="https://github.com/alyvusal/container-info-ui">Container Info UI</a></li>
+  <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
+  <li><a href="https://github.com/alyvusal/demo-app">Demo App</a></li>
 </details>
 
 ---
