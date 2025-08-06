@@ -8,7 +8,6 @@
 
 [![](https://readme-typing-svg.herokuapp.com/?&pause=1000&lines=17+years+experience;Network+Security+System+Cloud)](https://git.io/typing-svg)
 
-
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
@@ -45,6 +44,12 @@
         <strong>Terragrunt</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/>
+        <strong>Ansible</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -64,15 +69,48 @@
         <strong>MinIO</strong>
       </a>
     </td>
-    <!-- Add up to 7 more <td> for this row -->
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>
+        <strong>Redis</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>
+        <strong>MongoDB</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br/>
+        <strong>RabbitMQ</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=kafka" width="40"/><br/>
+        <strong>Kafka</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
+        <strong>MySQL</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
+        <strong>PostgreSQL</strong>
+      </a>
+    </td>
   </tr>
   <!-- <tr align="center"> -->
     <!-- Next 10 tools go here -->
   <!-- </tr> -->
   <!-- Keep adding more <tr> rows for every 10 tools -->
 </table>
-
-[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,rabbitmq)](.)
 
 - 🌐 **Service Mesh, Networking & Ingress**
 
@@ -82,6 +120,18 @@
       <a href="https://github.com/alyvusal/traefik">
         <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/><br/>
         <strong>Traefik</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/>
+        <strong>Apache</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/>
+        <strong>NginX</strong>
       </a>
     </td>
   </tr>
@@ -109,10 +159,20 @@
         <strong>GCP GKE</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=kubernetes" width="40"/><br/>
+        <strong>K8S</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>
+        <strong>Docker</strong>
+      </a>
+    </td>
   </tr>
 </table>
-
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](.)
 
 - 🔁 **CI/CD & GitOps**
 
@@ -122,6 +182,18 @@
       <a href="https://github.com/alyvusal/argo">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40"/><br/>
         <strong>Argo</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
+        <strong>Github Actions</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/><br/>
+        <strong>Jenkins</strong>
       </a>
     </td>
   </tr>
