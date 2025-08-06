@@ -263,7 +263,7 @@
 </details>
 
 <details>
-  <summary>Dcoker/BuildX/BuilKit</summary>
+  <summary>Docker/BuildX/BuilKit</summary>
   <li><a href="https://github.com/alyvusal/container-info-ui">Container Info UI</a></li>
   <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
   <li><a href="https://github.com/alyvusal/demo-app">Demo App</a></li>
