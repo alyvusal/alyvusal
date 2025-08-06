@@ -1,10 +1,13 @@
-<!-- markdownlint-disable-file MD045 -->
 <!-- markdownlint-disable-file MD033 -->
-# Vusal Aliyev
+<!-- markdownlint-disable-file MD045 -->
+# 👋 Hey, I'm Vusal Aliyev
 
 ## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation 🏬 DC
 
-[![](https://readme-typing-svg.herokuapp.com/?lines=17+years+experience;Network+Security+System+Cloud;DevOps/SRE+Engineer)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF0000&lines=DevOps/SRE+Engineer)](https://git.io/typing-svg)
+
+[![](https://readme-typing-svg.herokuapp.com/?&pause=1000&lines=17+years+experience;Network+Security+System+Cloud)](https://git.io/typing-svg)
+
 
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
@@ -24,28 +27,7 @@
 
 - ☁️ **Cloud & Infrastructure**
 
-<table>
-  <tr align="center">
-    <td valign="bottom">
-      <a href="https://github.com/alyvusal/aws-eks">
-        <img src="https://cdn.prod.website-files.com/5f05d5858fab461d0d08eaeb/634ff70e43a9f038e0092fc8_eks_light.svg" width="40"/><br/>
-        <strong>AWS EKS</strong>
-      </a>
-    </td>
-    <td valign="bottom">
-      <a href="https://github.com/alyvusal/azure-aks">
-        <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f63acb3dff7a6ef2666418d_AZURE%20AKS.png" width="40"/><br/>
-        <strong>Azure AKS</strong>
-      </a>
-    </td>
-    <td valign="bottom">
-      <a href="https://github.com/alyvusal/gcp-gke">
-        <img src="https://www.gstatic.com/bricks/image/a25e3d67-cda0-4dd2-88c4-49e04c469441.png" width="40"/><br/>
-        <strong>GCP GKE</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure)](.)
 
 - ⚙️ **Infrastructure as Code**
 
@@ -90,7 +72,9 @@
   <!-- Keep adding more <tr> rows for every 10 tools -->
 </table>
 
-- 🌐 **Networking & Ingress**
+[![My Skills](https://skillicons.dev/icons?i=redis,mongodb,rabbitmq)](.)
+
+- 🌐 **Service Mesh, Networking & Ingress**
 
 <table>
   <tr align="center">
@@ -102,6 +86,49 @@
     </td>
   </tr>
 </table>
+
+- 📦 **Container, Orchestration & Management**
+
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-eks">
+        <img src="https://cdn.prod.website-files.com/5f05d5858fab461d0d08eaeb/634ff70e43a9f038e0092fc8_eks_light.svg" width="40"/><br/>
+        <strong>AWS EKS</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/azure-aks">
+        <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f63acb3dff7a6ef2666418d_AZURE%20AKS.png" width="40"/><br/>
+        <strong>Azure AKS</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/gcp-gke">
+        <img src="https://www.gstatic.com/bricks/image/a25e3d67-cda0-4dd2-88c4-49e04c469441.png" width="40"/><br/>
+        <strong>GCP GKE</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker)](.)
+
+- 🔁 **CI/CD & GitOps**
+
+- 🔐 **Security & Secrets Management**
+
+- 📊 **Monitoring, Observability & Cost Management**
+
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch)](.)
+
+- 🧑‍💻 **Development & Miscellaneous**
+
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell)](.)
+
+- 🖥️ Operating systems
+
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,linux,redhat)](.)
 
 ---
 
