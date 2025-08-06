@@ -203,6 +203,12 @@
         <strong>CircleCI</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br/>
+        <strong>GitlabCI</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
