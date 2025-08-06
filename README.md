@@ -11,6 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
+  - **_soon will be public..._**: ansible, antivirus, apisix, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jaeger, jenkins, jsonnet, k8up, kafka, kafka-fast-data-dev, karpenter, keda, kimai, kind, konghq, kops, kubecost, kubernetes, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, opentelemetry, openvz, packer, podman, postgresql, powershell, projects, prometheus-grafana, prowler, rabbitmq, rpm, ealed-secrets, security, skaffold, sonarqube, sops-ksops, spinnaker, steampipe, tekton, terraform, terragrunt, thanos, tmp, vagrant, vault, velero, victoriametrics, zipkin ...
 
 ---
 
