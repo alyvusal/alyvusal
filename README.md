@@ -52,15 +52,15 @@
 <table>
   <tr align="center">
     <td valign="bottom">
-      <a href="https://github.com/alyvusal/aws-eks-terragrunt">
-        <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/>
-        <strong>Terragrunt</strong>
-      </a>
-    </td>
-    <td valign="bottom">
       <a href="https://github.com/alyvusal/aws-msk">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/>
         <strong>Terraform</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/aws-eks-terragrunt">
+        <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/>
+        <strong>Terragrunt</strong>
       </a>
     </td>
   </tr>
@@ -116,6 +116,7 @@
 <details>
   <summary>Kafka</summary>
   <li><a href="https://github.com/alyvusal/postgres-kafka-minio">Postgres (CDC) - Kafka - MiniO</a></li>
+  <li><a href="https://github.com/alyvusal/aws-msk">Postgres RDS (CDC) - AWS MSK - S3</a></li>
 </details>
 
 <details>
@@ -123,9 +124,23 @@
   <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
 </details>
 
+<details>
+  <summary>Azure Pipelines</summary>
+  <li><a href="https://github.com/alyvusal/azure-aks">Azure AKS with Azure Pipelines</a></li>
+</details>
+
+<details>
+  <summary>Google Build Pipelines</summary>
+  <li><a href="https://github.com/alyvusal/gcp-gke">Google GCP GKE with Google Build Pipelines</a></li>
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alyvusal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+
+![Vusal's GitHub stats](https://github-readme-stats.vercel.app/api?username=alyvusal&show_icons=true&theme=dark)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=alyvusal&theme=dark&hide_border=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=alyvusal&icon=0&color=0)](https://visitcount.itsvg.in)
