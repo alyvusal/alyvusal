@@ -118,6 +118,17 @@
 
 - 🔐 **Security & Secrets Management**
 
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/bank-vaults">
+        <img src="https://avatars.githubusercontent.com/u/129937617" width="40"/><br/>
+        <strong>Bank-Vaults</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - 📊 **Monitoring, Observability & Cost Management**
 
 [![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch)](.)
