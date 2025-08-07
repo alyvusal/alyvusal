@@ -71,7 +71,7 @@
       </a>
     </td>
     <td valign="bottom">
-      <a>
+      <a href="https://github.com/alyvusal/mongodb">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><strong>MongoDB</strong>
       </a>
     </td>
@@ -228,7 +228,7 @@
   <tr align="center">
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/><strong>Grana LGTM</strong>
+        <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/><strong>Grafana LGTM</strong>
       </a>
     </td>
     <td valign="bottom">
