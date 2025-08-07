@@ -11,7 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, victoriametrics ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, kyverno, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
 
 ---
 
@@ -265,6 +265,16 @@
     <td valign="bottom">
       <a href="https://github.com/alyvusal/opentelemetry">
         <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/><strong>OpenTelemetry</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/thanos">
+        <img src="https://thanos.io/icon-light.png" width="40"/><br/><strong>Thanos</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/victoriametrics">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqI0aW3V5BAqNMvXutX2yCmjTsIW8ryKWqrgSbYjWLCMpYzEFgkdbNG0XVjVpiDrqiXs&usqp=CAU" width="40"/><br/><strong>VictoriaMetrics</strong>
       </a>
     </td>
   </tr>
