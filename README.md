@@ -11,7 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
-  - **_soon will be public..._**: ansible, antivirus, apisix, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jaeger, jenkins, jsonnet, k8up, kafka, kafka-fast-data-dev, karpenter, keda, kimai, kind, konghq, kops, kubecost, kubernetes, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, opentelemetry, openvz, packer, podman, postgresql, powershell, projects, prometheus-grafana, prowler, rabbitmq, rpm, ealed-secrets, security, skaffold, sonarqube, sops-ksops, spinnaker, steampipe, tekton, terraform, terragrunt, thanos, tmp, vagrant, vault, velero, victoriametrics, zipkin ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, k8up, kafka, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kubernetes, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, opentelemetry, openvz, packer, podman, postgresql, powershell, prometheus-grafana, prowler, rabbitmq, rpm, ealed-secrets, security, skaffold, sonarqube, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, velero, victoriametrics ...
 
 ---
 
@@ -40,7 +40,7 @@
       </a>
     </td>
     <td valign="bottom">
-      <a href="https://github.com/alyvusal/aws-eks-terragrunt">
+      <a href="https://github.com/alyvusal/terragrunt">
         <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/>
         <strong>Terragrunt</strong>
       </a>
@@ -83,7 +83,7 @@
       </a>
     </td>
     <td valign="bottom">
-      <a>
+      <a href="https://github.com/alyvusal/rabbitmq">
         <img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br/>
         <strong>RabbitMQ</strong>
       </a>
@@ -245,7 +245,40 @@
 
 - 📊 **Monitoring, Observability & Cost Management**
 
-[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus,elasticsearch)](.)
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/>
+        <strong>Grana LGTM</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br/>
+        <strong>Prometheus</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/><br/>
+        <strong>Elasticsearch</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/jaeger">
+        <img src="https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg" width="40"/><br/>
+        <strong>Jaeger</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/zipkin">
+        <img src="https://zipkin.io/public/favicon.ico" width="40"/><br/>
+        <strong>Zipkin</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 - 🧑‍💻 **Development & Miscellaneous**
 
