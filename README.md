@@ -11,7 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, k8up, kafka, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kubernetes, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, postgresql, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sonarqube, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, velero, victoriametrics ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, k8up, kafka, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kubernetes, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, velero, victoriametrics ...
 
 ---
 
@@ -35,20 +35,17 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/aws-msk">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/>
-        <strong>Terraform</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40"/><br/><strong>Terraform</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/terragrunt">
-        <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/>
-        <strong>Terragrunt</strong>
+        <img src="https://canada1.discourse-cdn.com/flex031/uploads/gruntwork/original/1X/451c24614aece67849fd62d0432d77ecd00735c6.png" width="40"/><br/><strong>Terragrunt</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/>
-        <strong>Ansible</strong>
+        <img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/><strong>Ansible</strong>
       </a>
     </td>
   </tr>
@@ -60,50 +57,42 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/aws-msk">
-        <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/><br/>
-        <strong>AWS MSK</strong>
+        <img src="https://icon.icepanel.io/AWS/svg/Analytics/Managed-Streaming-for-Apache-Kafka.svg" width="40"/><br/><strong>AWS MSK</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/minio">
-        <img src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/68656cb290ee4fa91989c2dc_Brand-Logo%20%E2%9C%85.svg" width="40"/><br/>
-        <strong>MinIO</strong>
+        <img src="https://cdn.prod.website-files.com/681c8426519d8db8f867c1e8/68656cb290ee4fa91989c2dc_Brand-Logo%20%E2%9C%85.svg" width="40"/><br/><strong>MinIO</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/>
-        <strong>Redis</strong>
+        <img src="https://skillicons.dev/icons?i=redis" width="40"/><br/><strong>Redis</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>
-        <strong>MongoDB</strong>
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/><strong>MongoDB</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/rabbitmq">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br/>
-        <strong>RabbitMQ</strong>
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="40"/><br/><strong>RabbitMQ</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=kafka" width="40"/><br/>
-        <strong>Kafka</strong>
+        <img src="https://skillicons.dev/icons?i=kafka" width="40"/><br/><strong>Kafka</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/>
-        <strong>MySQL</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/><br/><strong>MySQL</strong>
       </a>
     </td>
     <td valign="bottom">
-      <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/>
-        <strong>PostgreSQL</strong>
+      <a href="https://github.com/alyvusal/postgresql">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><br/><strong>PostgreSQL</strong>
       </a>
     </td>
   </tr>
@@ -119,32 +108,27 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/traefik">
-        <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/><br/>
-        <strong>Traefik</strong>
+        <img src="https://github.com/traefik/traefik/blob/master/docs/content/assets/img/traefikproxy-icon-color.png?raw=true" width="40"/><br/><strong>Traefik</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/>
-        <strong>Apache</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40"/><br/><strong>Apache</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/>
-        <strong>NginX</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40"/><br/><strong>NginX</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/apisix">
-        <img src="https://apisix.apache.org/img/logo2.svg" width="40"/><br/>
-        <strong>APISIX</strong>
+        <img src="https://apisix.apache.org/img/logo2.svg" width="40"/><br/><strong>APISIX</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/kong">
-        <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="40"/><br/>
-        <strong>Kong</strong>
+        <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="40"/><br/><strong>Kong</strong>
       </a>
     </td>
   </tr>
@@ -156,20 +140,17 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/aws-eks">
-        <img src="https://cdn.prod.website-files.com/5f05d5858fab461d0d08eaeb/634ff70e43a9f038e0092fc8_eks_light.svg" width="40"/><br/>
-        <strong>AWS EKS</strong>
+        <img src="https://cdn.prod.website-files.com/5f05d5858fab461d0d08eaeb/634ff70e43a9f038e0092fc8_eks_light.svg" width="40"/><br/><strong>AWS EKS</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/azure-aks">
-        <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f63acb3dff7a6ef2666418d_AZURE%20AKS.png" width="40"/><br/>
-        <strong>Azure AKS</strong>
+        <img src="https://cdn.prod.website-files.com/5f10ed4c0ebf7221fb5661a5/5f63acb3dff7a6ef2666418d_AZURE%20AKS.png" width="40"/><br/><strong>Azure AKS</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/gcp-gke">
-        <img src="https://www.gstatic.com/bricks/image/a25e3d67-cda0-4dd2-88c4-49e04c469441.png" width="40"/><br/>
-        <strong>GCP GKE</strong>
+        <img src="https://www.gstatic.com/bricks/image/a25e3d67-cda0-4dd2-88c4-49e04c469441.png" width="40"/><br/><strong>GCP GKE</strong>
       </a>
     </td>
     <td valign="bottom">
@@ -180,8 +161,7 @@
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>
-        <strong>Docker</strong>
+        <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><strong>Docker</strong>
       </a>
     </td>
   </tr>
@@ -193,14 +173,12 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/argo">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40"/><br/>
-        <strong>Argo</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="40"/><br/><strong>Argo</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
-        <strong>Github Actions</strong>
+        <img src="https://skillicons.dev/icons?i=github" width="40"/><br/><strong>Github Actions</strong>
       </a>
     </td>
     <td valign="bottom">
@@ -211,14 +189,12 @@
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40"/><br/>
-        <strong>CircleCI</strong>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" width="40"/><br/><strong>CircleCI</strong>
       </a>
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br/>
-        <strong>GitlabCI</strong>
+        <img src="https://skillicons.dev/icons?i=gitlab" width="40"/><br/><strong>GitlabCI</strong>
       </a>
     </td>
   </tr>
@@ -230,14 +206,17 @@
   <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/bank-vaults">
-        <img src="https://avatars.githubusercontent.com/u/129937617" width="40"/><br/>
-        <strong>Bank-Vaults</strong>
+        <img src="https://avatars.githubusercontent.com/u/129937617" width="40"/><br/><strong>Bank-Vaults</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/vault">
-        <img src="https://cdn.worldvectorlogo.com/logos/vault-enterprise.svg" width="40"/><br/>
-        <strong>Hashicorp Vault</strong>
+        <img src="https://cdn.worldvectorlogo.com/logos/vault-enterprise.svg" width="40"/><br/><strong>Hashicorp Vault</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/sonarqube">
+        <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="40"/><br/><strong>SonarQube</strong>
       </a>
     </td>
   </tr>
@@ -249,8 +228,7 @@
   <tr align="center">
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/>
-        <strong>Grana LGTM</strong>
+        <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/><strong>Grana LGTM</strong>
       </a>
     </td>
     <td valign="bottom">
@@ -261,26 +239,22 @@
     </td>
     <td valign="bottom">
       <a>
-        <img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/><br/>
-        <strong>Elasticsearch</strong>
+        <img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/><br/><strong>Elasticsearch</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/jaeger">
-        <img src="https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg" width="40"/><br/>
-        <strong>Jaeger</strong>
+        <img src="https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg" width="40"/><br/><strong>Jaeger</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/zipkin">
-        <img src="https://zipkin.io/public/favicon.ico" width="40"/><br/>
-        <strong>Zipkin</strong>
+        <img src="https://zipkin.io/public/favicon.ico" width="40"/><br/><strong>Zipkin</strong>
       </a>
     </td>
     <td valign="bottom">
       <a href="https://github.com/alyvusal/opentelemetry">
-        <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/>
-        <strong>OpenTelemetry</strong>
+        <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/><strong>OpenTelemetry</strong>
       </a>
     </td>
   </tr>
@@ -301,7 +275,7 @@
 <details>
   <summary>Terraform/Terragrunt</summary>
   <li><a href="https://github.com/alyvusal/aws-eks-terragrunt">AWS EKS with Terragrunt</a></li>
-<li><a href="https://github.com/alyvusal/aws-msk">AWS MSK with Terraform</a></li>
+  <li><a href="https://github.com/alyvusal/aws-msk">AWS MSK with Terraform</a></li>
 </details>
 
 <details>
