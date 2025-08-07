@@ -24,7 +24,7 @@
 
 ## 🛠️ My Tech Stack
 
-> :warning: To see related repository I've created, click on it.
+> :warning: To see related repository I've created, click on tool name or icon of it.
 
 - ☁️ **Cloud & Infrastructure**
 
