@@ -11,7 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, victoriametrics ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, victoriametrics ...
 
 ---
 
@@ -131,10 +131,15 @@
         <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="40"/><br/><strong>Kong</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/kusk">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ojxcxHq2uYEz44esjHSFg1vTWAXEQUu4W2kENa_SeCef97F2d417sQF-FtYmx4DOi-Y&usqp=CAU" width="40"/><br/><strong>Kusk</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
-- 📦 **Container, Orchestration & Management**
+- 📦 **Container orchestration & Cluster Management**
 
 <table>
   <tr align="center">
@@ -162,6 +167,11 @@
     <td valign="bottom">
       <a>
         <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><strong>Docker</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/karpenter">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVUY8JB9TioCtaCmksx8_ncg7Y0gsrWyGPw&s" width="40"/><br/><strong>Karpenter</strong>
       </a>
     </td>
   </tr>
