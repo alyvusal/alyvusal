@@ -135,6 +135,18 @@
         <strong>NginX</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/apisix">
+        <img src="https://apisix.apache.org/img/logo2.svg" width="40"/><br/>
+        <strong>APISIX</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/kong">
+        <img src="https://www.svgrepo.com/show/353978/kong-icon.svg" width="40"/><br/>
+        <strong>Kong</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -222,6 +234,12 @@
         <strong>Bank-Vaults</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/vault">
+        <img src="https://cdn.worldvectorlogo.com/logos/vault-enterprise.svg" width="40"/><br/>
+        <strong>Hashicorp Vault</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -273,6 +291,11 @@
   <li><a href="https://github.com/alyvusal/container-info-ui">Container Info UI</a></li>
   <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
   <li><a href="https://github.com/alyvusal/demo-app">Demo App</a></li>
+</details>
+
+<details>
+  <summary>Ansible</summary>
+  <li><a href="https://github.com/alyvusal/vault/tree/main/ansible/ansible-vault-ha-raft">HashiCorp Vault HA Raft</a></li>
 </details>
 
 ---
