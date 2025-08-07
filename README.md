@@ -11,7 +11,7 @@
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 😄 Pronouns: `/vuˈsɑːl ˈɑːliev/`, In Russian: Вусал Алиев
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it.
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, k8up, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, velero, victoriametrics ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, karpenter, keda, kimai, kind, kops, kubecost, kusk, kustomize, kwok, kyverno, longhorn, metallb, minikube, mongodb, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, ealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, thanos, vagrant, victoriametrics ...
 
 ---
 
@@ -200,7 +200,7 @@
   </tr>
 </table>
 
-- 🔐 **Security & Secrets Management**
+- 🛡️ **Security & Secrets Management**
 
 <table>
   <tr align="center">
@@ -260,9 +260,26 @@
   </tr>
 </table>
 
+- 💾 **Backup and Data Recovery**
+
+<table>
+  <tr align="center">
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/velero">
+        <img src="https://pbs.twimg.com/profile_images/1092805171938234371/CeyfzQLG_400x400.jpg" width="40"/><br/><strong>Velero</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/k8up">
+        <img src="https://docs.k8up.io/k8up/_images/k8up-logo-square.png" width="40"/><br/><strong>k8up</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
 - 🧑‍💻 **Development & Miscellaneous**
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell)](.)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,git)](.)
 
 - 🖥️ Operating systems
 
