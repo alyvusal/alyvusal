@@ -12,7 +12,7 @@
 
 - ✨ 17+ years of experience in DevOps & Infrastructure management
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it. They may be unstable at the moment, I fill fix them later
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, efk, elk, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, kyverno, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openshift, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, kyverno, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
 
 ---
 
@@ -175,6 +175,11 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJVUY8JB9TioCtaCmksx8_ncg7Y0gsrWyGPw&s" width="40"/><br/><strong>Karpenter</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/openshift">
+        <img src="https://skillicons.dev/icons?i=openshift" width="40"/><br/><strong>OpenShift</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -249,8 +254,33 @@
       </a>
     </td>
     <td valign="bottom">
-      <a>
+      <a href="https://github.com/alyvusal/victoriametrics">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqI0aW3V5BAqNMvXutX2yCmjTsIW8ryKWqrgSbYjWLCMpYzEFgkdbNG0XVjVpiDrqiXs&usqp=CAU" width="40"/><br/><strong>VictoriaMetrics</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/thanos">
+        <img src="https://thanos.io/icon-light.png" width="40"/><br/><strong>Thanos</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/logging">
         <img src="https://skillicons.dev/icons?i=elasticsearch" width="40"/><br/><strong>Elasticsearch</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/logging">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/logstash/logstash-original.svg" width="40"/><br/><strong>Logstash</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/logging">
+        <img src="https://raw.githubusercontent.com/fluent/fluentd-docs-gitbook/53020426cdcfcb5a5f722031838ee1cb95b5a7a2/images/logo/Fluentd_icon.svg" width="40"/><br/><strong>FluentD</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/logging">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40"/><br/><strong>Kibana</strong>
       </a>
     </td>
     <td valign="bottom">
@@ -263,19 +293,11 @@
         <img src="https://zipkin.io/public/favicon.ico" width="40"/><br/><strong>Zipkin</strong>
       </a>
     </td>
+  </tr>
+  <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/opentelemetry">
         <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/><strong>OpenTelemetry</strong>
-      </a>
-    </td>
-    <td valign="bottom">
-      <a href="https://github.com/alyvusal/thanos">
-        <img src="https://thanos.io/icon-light.png" width="40"/><br/><strong>Thanos</strong>
-      </a>
-    </td>
-    <td valign="bottom">
-      <a href="https://github.com/alyvusal/victoriametrics">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQqI0aW3V5BAqNMvXutX2yCmjTsIW8ryKWqrgSbYjWLCMpYzEFgkdbNG0XVjVpiDrqiXs&usqp=CAU" width="40"/><br/><strong>VictoriaMetrics</strong>
       </a>
     </td>
   </tr>
