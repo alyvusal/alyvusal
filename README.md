@@ -14,7 +14,7 @@
 
 - ✨ 6+ years of experience in DevOps & 17+ years of experience in Infrastructure management
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it. They may be unstable at the moment, I fill fix them later
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openvz, packer, podman, powershell, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, docker, docs, driftctl, easy-rsa, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, kimai, kind, kops, kubecost, kustomize, kwok, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openvz, packer, podman, powershell, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
 
 ---
 
@@ -339,7 +339,7 @@
 
 - 🧑‍💻 **Development & Miscellaneous**
 
-[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,git)](.)
+[![My Skills](https://skillicons.dev/icons?i=python,bash,powershell,git,html,css)](.)
 
 - 🖥️ Operating systems
 
