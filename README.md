@@ -293,6 +293,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kibana/kibana-original.svg" width="40"/><br/><strong>Kibana</strong>
       </a>
     </td>
+  </tr>
+  <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/jaeger">
         <img src="https://icon.icepanel.io/Technology/svg/Jaeger-Tracing.svg" width="40"/><br/><strong>Jaeger</strong>
@@ -303,8 +305,6 @@
         <img src="https://zipkin.io/public/favicon.ico" width="40"/><br/><strong>Zipkin</strong>
       </a>
     </td>
-  </tr>
-  <tr align="center">
     <td valign="bottom">
       <a href="https://github.com/alyvusal/opentelemetry">
         <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/><strong>OpenTelemetry</strong>
