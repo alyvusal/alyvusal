@@ -6,13 +6,15 @@
 
 ## 🚀 DevOps ☁️ Clouds 🖥️ Platform ♾️ Automation 🏬 DC
 
+![RHCE](https://img.shields.io/badge/RHCE-Certified-red) ![CCNP](https://img.shields.io/badge/CCNP-Certified-blue) ![CCDP](https://img.shields.io/badge/CCDP-Certified-blue) ![CCNP](https://img.shields.io/badge/CCNA-Security-blue)
+
 [![](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=FF0000&lines=DevOps/SRE+Engineer)](https://git.io/typing-svg)
 
 [![](https://readme-typing-svg.herokuapp.com/?&pause=1000&lines=17+years+experience;Network+Security+System+Cloud)](https://git.io/typing-svg)
 
-- ✨ 17+ years of experience in DevOps & Infrastructure management
+- ✨ 6+ years of experience in DevOps & 17+ years of experience in Infrastructure management
 - 🌱 I’m currently: Moving private repos to public as much as I can find free time for it. They may be unstable at the moment, I fill fix them later
-  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, kyverno, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openvz, packer, podman, powershell, prometheus-grafana, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
+  - **_soon will be public..._**: ansible, antivirus, atlassian, authentik, aws, aws-loadbalancer-controller, awx, azure, bash, buildx-buildkit, cert-manager, circleci, consul, crossplane, docker, docs, driftctl, easy-rsa, exporters, external-dns, external-secrets, falco, flux, gcp, git, git-flow, github-actions, gitlab, gpg-pgp, helm, infracost, infrawallet, ingress-nginx, istio, jenkins, jsonnet, kafka-fast-data-dev, keda, kimai, kind, kops, kubecost, kustomize, kwok, longhorn, metallb, minikube, n8n, nginx, nifi, nix, nomad, ocserv-openconnect, opa-open-policy-agent, opencost, openvz, packer, podman, powershell, prowler, rpm, sealed-secrets, security, skaffold, sops-ksops, spinnaker, steampipe, tekton, terraform, vagrant ...
 
 ---
 
@@ -253,12 +255,12 @@
 <table>
   <tr align="center">
     <td valign="bottom">
-      <a>
+      <a href="https://github.com/alyvusal/grafana">
         <img src="https://skillicons.dev/icons?i=grafana" width="40"/><br/><strong>Grafana LGTM</strong>
       </a>
     </td>
     <td valign="bottom">
-      <a>
+      <a href="https://github.com/alyvusal/grafana">
         <img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br/>
         <strong>Prometheus</strong>
       </a>
