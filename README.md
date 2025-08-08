@@ -166,6 +166,11 @@
       </a>
     </td>
     <td valign="bottom">
+      <a href="https://github.com/alyvusal/openshift">
+        <img src="https://skillicons.dev/icons?i=openshift" width="40"/><br/><strong>OpenShift</strong>
+      </a>
+    </td>
+    <td valign="bottom">
       <a>
         <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/><strong>Docker</strong>
       </a>
@@ -176,8 +181,8 @@
       </a>
     </td>
     <td valign="bottom">
-      <a href="https://github.com/alyvusal/openshift">
-        <img src="https://skillicons.dev/icons?i=openshift" width="40"/><br/><strong>OpenShift</strong>
+      <a href="https://github.com/alyvusal/keda">
+        <img src="https://landscape.cncf.io/logos/c87a77d52e0b19e58b98012864dbd5d963a4c4d97c767b15e074d30077104b12.svg" width="40"/><br/><strong>Keda</strong>
       </a>
     </td>
   </tr>
