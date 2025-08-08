@@ -51,6 +51,11 @@
         <img src="https://skillicons.dev/icons?i=ansible" width="40"/><br/><strong>Ansible</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/crossplane">
+        <img src="https://raw.githubusercontent.com/crossplane/artwork/refs/heads/master/logo/icon.svg" width="40"/><br/><strong>Crossplane</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
