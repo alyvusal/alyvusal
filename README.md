@@ -235,6 +235,11 @@
         <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="40"/><br/><strong>SonarQube</strong>
       </a>
     </td>
+    <td valign="bottom">
+      <a href="https://github.com/alyvusal/kyverno">
+        <img src="https://avatars.githubusercontent.com/u/68448710?s=200&v=4" width="40"/><br/><strong>Kyverno</strong>
+      </a>
+    </td>
   </tr>
 </table>
 
