@@ -358,6 +358,7 @@
         <img src="https://falco.org/img/brand/falco-icon-color.svg" width="40"/><br/><strong>Falco</strong>
       </a>
     </td>
+    </td>
   </tr>
 </table>
 
@@ -421,6 +422,11 @@
     <td valign="bottom">
       <a href="https://github.com/alyvusal/opentelemetry">
         <img src="https://icon.icepanel.io/Technology/svg/OpenTelemetry.svg" width="40"/><br/><strong>OpenTelemetry</strong>
+      </a>
+    </td>
+    <td valign="bottom">
+      <a>
+        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/datadog.svg" width="40"/><br/><strong>DataDog</strong>
       </a>
     </td>
     <td valign="bottom">
@@ -530,6 +536,7 @@
   <li><a href="https://github.com/alyvusal/container-info-ui">Container Info UI</a></li>
   <li><a href="https://github.com/alyvusal/github-poller">Github Poller</a></li>
   <li><a href="https://github.com/alyvusal/demo-app">Demo App</a></li>
+  <li><a href="https://hub.docker.com/u/alyvusal">Docker Hub images</a></li>
 </details>
 
 <details>
